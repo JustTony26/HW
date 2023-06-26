@@ -53,5 +53,5 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius amet dolor quasi 
       Третий элемент
     </li>
   </ol>
-<img src="cupcakes-dark-chocolate-sugar-butter-sour-cream-condenced-milk-side-view-jpg_141793-3537.jpg" alt="">
+<img src="123.jpg" alt="">
 </html>>
